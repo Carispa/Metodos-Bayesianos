@@ -3,19 +3,19 @@ name = "metodos-bayesianos"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13.9"
+requires-python = ">=3.11"
 dependencies = [
     "aeppl==0.0.38",
     "aesara==2.8.7",
     "arviz==0.13.0",
     "jupyter>=1.1.1",
-    "jupyterlab>=4.5.2",
-    "mkl>=2025.3.0",
+    "jupyterlab>=4.5.3",
+    "mkl>=2025.3.1",
     "mkl-service>=2.6.1",
-    "pandas>=2.3.3",
     "pip>=25.3",
     "pymc==4.3.0",
     "seaborn>=0.13.2",
+    "theano-pymc==1.1.2",
     "tqdm>=4.67.1",
     "watermark>=2.6.0",
 ]
