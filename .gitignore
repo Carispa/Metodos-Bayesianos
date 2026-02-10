@@ -5,6 +5,13 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+# Modulos 
+modulo1/
+modulo2/
+modulo3/
+modulo4/
+modulo5/
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
