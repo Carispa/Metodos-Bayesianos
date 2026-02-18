@@ -10,4 +10,5 @@ aesara==2.8.7
 theano-pymc==1.1.2
 tqdm
 mkl
+scikit-learn
 pip
